@@ -3,7 +3,6 @@ import torchvision
 import torchvision.transforms as transforms
 
 from PIL import Image
-from torchvision import models
 
 
 def load_model(path: str):
